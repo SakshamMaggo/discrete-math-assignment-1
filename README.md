@@ -1,4 +1,4 @@
-# CS-1110/MAT-2203 Discrete Mathematics — Assignment 1
+# CS-1110/MAT-2203 Discrete Mathematics: Assignment 1
 
 **Student:** Saksham Maggo  
 **Computational exercises:** Questions 2 and 3
