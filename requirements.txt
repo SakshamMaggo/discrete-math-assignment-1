@@ -1,0 +1,15 @@
+# Python package required for the submitted coding exercises.
+#
+# q2_logic_checker.py:
+#   Uses only Python standard-library modules. No extra package needed.
+#
+# q2_sat_unsat_student.py:
+#   Requires Z3 for SAT/UNSAT solving.
+#
+# q3_decision_tree_student.py:
+#   Uses only Python standard-library modules. No extra package needed.
+#
+# Install the external dependency with:
+#   python3 -m pip install -r requirements.txt
+
+z3-solver
